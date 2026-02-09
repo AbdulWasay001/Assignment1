@@ -1,0 +1,40 @@
+div{
+    background-color: black;
+    color: white;
+    padding: 50px, 50px, 100px,100px;
+    text-align: center;
+}
+#li{
+    text-align: center;
+    background-color: rgb(106, 106, 106);
+    padding: 10px, 10px, 20px,20px;
+}
+#about{
+    border: 1px solid ;
+    
+}
+#skills{
+     border: 1px solid ;
+     
+}
+#gallery{
+     border: 1px solid ;
+     text-align: center;
+}
+#contact{
+    border: 1px solid ;
+}
+    .rounded-button {
+  background-color: #0042c6;
+  border: none;
+  color: white;
+  padding: 3px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px; /* The key property */
+}
+
